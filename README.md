@@ -40,11 +40,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Detail pagina - nijntje tas
-  <img src="./images/hema-nijntje-tas.jpeg" width="375px" alt="detail pagina van nijntje tote bag">
+  <img src="./readme-images/nijntje-tas-full-screen.jpeg" width="375px" alt="detail pagina van nijntje tote bag">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   goed idee pagina
-  <img src="./images/hema-goed-idee.jpeg" width="375px" alt="hema pagina over duurzaamheid">
+  <img src="./readme-images/hema-goed-idee-full-screen.jpeg" width="375px" alt="hema pagina over duurzaamheid">
  
 </details>
 
@@ -57,7 +57,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
-  - screen reader is (voor mij) heel warrig. Hij leest dingen voor waar ik nog helemaal niet om "vroeg".
+  - screen reader is (voor mij) heel warrig. Hij leest dingen voor waar ik nog helemaal niet om "vroeg". 
   - ik heb de website nagekeken met "lighthouse" die aangeeft dat de hema website een 83/100 scoort.
     <img src="./images/lighthouse.png" width="375px" alt="hema lighthouse score">
 
@@ -236,5 +236,5 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   2. afbeeldingen gebruikt van de HEMA website zelf: logo en profile/basket images.
   3. image scrollbar code (wel zelf hier en daar aangepast om bij mijn website te passen): https://www.w3schools.com/howto/howto_css_image_gallery_scroll.asp
   4. tekstveld laten overlappen met een image: https://www.bannerbear.com/blog/how-to-overlay-text-on-an-image-in-html-and-css/#:~:text=Overlaying%20Text%20on%20an%20Image%20in%20HTML%20and%20CSS,-HTML&text=In%20the%20body%20section%2C%20create,and%20add%20your%20text%20inside.&text=We%20know%20that%20in%20real,to%20contain%20an%20image%20only.
-
+  5. dark/light mode via chatgpt: https://chatgpt.com/c/67292c34-9c38-800b-8baa-e4af9756efc6
 </details>
