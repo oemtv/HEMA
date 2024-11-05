@@ -39,12 +39,17 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   https://www.hema.nl/?gad_source=1&gclid=CjwKCAjwooq3BhB3EiwAYqYoElspCGjAcw40xIW6Ed2oEGb_II-YrLu2ITNmXw1M1VNWQDbGQAQIgRoCul8QAvD_BwE&gclsrc=aw.ds 
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  Detail pagina - nijntje tas
-  <img src="./readme-images/nijntje-tas-full-screen.jpeg" width="375px" alt="detail pagina van nijntje tote bag">
-
+  <details open>
+    <summary>Detail pagina 1 - nijntje tas</summary>
+    <img src="./readme-images/nijntje-tas-full-screen.jpeg" width="375px" alt="detail pagina van nijntje tote bag">
+  </details>
+  
   #### Screenshot(s) van de tweede pagina (small screen):
   goed idee pagina
-  <img src="./readme-images/hema-goed-idee-full-screen.jpeg" width="375px" alt="hema pagina over duurzaamheid">
+  <details open>
+    <summary>Detail pagina 2 - goed idee</summary>
+    <img src="./readme-images/hema-goed-idee-full-screen.jpeg" width="375px" alt="hema pagina over duurzaamheid">
+  </details>
  
 </details>
 
