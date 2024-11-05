@@ -45,7 +45,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   </details>
   
   #### Screenshot(s) van de tweede pagina (small screen):
-  goed idee pagina
   <details open>
     <summary>Detail pagina 2 - goed idee</summary>
     <img src="./readme-images/hema-goed-idee-full-screen.jpeg" width="375px" alt="hema pagina over duurzaamheid">
