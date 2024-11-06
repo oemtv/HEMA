@@ -113,7 +113,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
     
   <details>
     <summary>scroll container code</summary>
-    <img src="./readme-images/hamburgermenu.png" width="375px" alt="breakdown van de hele pagina">
+    <img src="./readme-images/scroll-container.png" width="375px" alt="breakdown van de hele pagina">
   </details>
   
   Wat was lastig:
@@ -121,7 +121,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   <details>
     <summary>zoekbalk code</summary>
-    <img src="./readme-images/hamburgermenu.png" width="375px" alt="breakdown van de hele pagina">
+    <img src="./readme-images/zoekbalk-1.png" width="375px" alt="breakdown van de hele pagina">
+    <img src="./readme-images/zoekbalk-2.png" width="375px" alt="breakdown van de hele pagina">
   </details>
 
   ### Agenda voor meeting
