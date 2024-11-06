@@ -126,7 +126,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   </details>
 
   ### Agenda voor meeting - NVT
-  samen met je groepje opstellen 
+  ik heb niet met de andere leerlingen besproken
 
   | student 1      | student 2          | student 3    | student 4        |
   | ---            | ---                | ---          | ---              |
@@ -162,7 +162,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
   ### Agenda voor meeting - NVT
-  samen met je groepje opstellen
+  ik heb niet met de andere leerlingen besproken
 
   | student 1      | student 2          | student 3    | student 4        |
   | ---            | ---                | ---          | ---              |
@@ -212,7 +212,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
   ### Agenda voor meeting - NVT
-  samen met je groepje opstellen
+  ik heb niet met de andere leerlingen besproken
 
   | student 1      | student 2          | student 3    | student 4        |
   | ---            | ---                | ---          | ---              |
