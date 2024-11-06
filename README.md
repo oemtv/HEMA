@@ -108,8 +108,21 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Wat ging er goed:
+  - het maken van de scroll container ging goed! Ik had dit nooit eerder gedaan en dacht dat het heel ingewikkeld zou zijn, maar na wat uitleg van het internet en de nodige aanpassingen ging het prima en heb ik de scroll container op meerdere plekken toegepast.
+    
+  <details>
+    <summary>scroll container code</summary>
+    <img src="./readme-images/hamburgermenu.png" width="375px" alt="breakdown van de hele pagina">
+  </details>
+  
+  Wat was lastig:
+  - de zoekbalk maken vond ik wel lastig, ik kreeg 'm maar niet zoals op de originele website, maar ik heb er gewoon veel aan zitten priegelen en elke code die ik kon bedenken getest, totdat hij er goed uitzag. 
 
+  <details>
+    <summary>zoekbalk code</summary>
+    <img src="./readme-images/hamburgermenu.png" width="375px" alt="breakdown van de hele pagina">
+  </details>
 
   ### Agenda voor meeting
   samen met je groepje opstellen
