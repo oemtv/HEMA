@@ -208,9 +208,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   
   Wat was lastig:
   - Ik vond het lastig om plaatje precies naast tekst te plaatsen, maar heb ik uiteindelijk hulp bij gekregen van een student assistente!
+    <img src="./readme-images/plaatjes.png" width="375px" alt="breakdown van de hele pagina">
 
 
-  ### Agenda voor meeting
+  ### Agenda voor meeting - NVT
   samen met je groepje opstellen
 
   | student 1      | student 2          | student 3    | student 4        |
@@ -223,10 +224,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - de eerste pagina moet af zijn en de tweede pagina had ook verder moeten zijn
 
 </details>
 
@@ -244,15 +242,14 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
   ### Dit ging goed/Heb ik geleerd: 
-  Korte omschrijving met plaatjes
-
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
+  - ik heb geleerd een scroll container te maken
+  - ik heb geleerd een zoekbalk te maken
+  - ik heb geleerd om extreem snel te werken
 
 
   ### Dit was lastig/Is niet gelukt:
-  Korte omschrijving met plaatjes
-
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+  - het beginnen was vooral moeilijk, omdat ik niet altijd wist waar en hoe ik moest beginnen
+  - twee pagina's in drie weken tijd maken was ook echt heel erg lastig
 </details>
 
 
