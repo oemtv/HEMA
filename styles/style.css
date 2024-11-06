@@ -631,9 +631,9 @@ details[open] p:nth-of-type(4) {
 }
 
 .onderhoud h2 {
-font-size: larger;
-padding-left: 2.3em;
-padding-right: 2.3em;
+	font-size: larger;
+	padding-left: 2.3em;
+	padding-right: 2.3em;
 }
 
 .onderhoud p {
@@ -643,13 +643,16 @@ padding-right: 2.3em;
 }
 
 .onderhoud button {
-	display: flex;
+	display: block;
 	justify-content: center;
 	margin-left: 3.5em;
 	margin-top: 1em;
+	padding: 1em;
+	width: 80%;
 	border: 0;
 	border-radius: 7px;
 	background-color: rgb(76, 222, 14);
+	text-align: center;
 }
 
 .onderhoud button p {
@@ -688,6 +691,7 @@ margin-top: 3em;
 
 .overlay {
 	margin-top: 3.5em;
+	margin-left: .9em;
 }
 
 .overlay ul {
