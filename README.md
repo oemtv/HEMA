@@ -61,7 +61,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
-  - screen reader is (voor mij) heel warrig. Hij leest dingen voor waar ik nog helemaal niet om "vroeg". 
+  - screen reader is (voor mij) heel warrig. Hij leest dingen voor waar ik nog helemaal niet om "vroeg". Ook gaat het heel snel waardoor ik het niet bij kan houden, maar mensen die hier aan gewend zijn zouden dit misschien wel bij kunnen houden.
+    
   - ik heb de website nagekeken met "lighthouse" die aangeeft dat de hema website een 83/100 scoort.
     <img src="./images/lighthouse.png" width="375px" alt="hema lighthouse score">
 
