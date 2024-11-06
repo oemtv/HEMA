@@ -81,6 +81,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### de hele pagina: 
   <details>
+    <summary>Pagina 1 nijntje tas</summary>
     <img src="readme-images/breakdown-SCHERM-1.png" width="375px" alt="breakdown van de hele pagina">
   </details>
 
