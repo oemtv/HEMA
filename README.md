@@ -85,11 +85,22 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
     <img src="readme-images/breakdown-SCHERM-1.png" width="375px" alt="breakdown van de hele pagina">
   </details>
 
+   <details>
+    <summary>Pagina 1 nijntje tas</summary>
+    <img src="readme-images/breakdown-SCHERM-1.png" width="375px" alt="breakdown van de hele pagina">
+  </details>
+
   ### dynamisch deel (bijv menu): 
   <details>
     <summary>Hamburgermenu</summary>
     <img src="readme-images/hamburgermenu.png" width="375px" alt="breakdown van de hele pagina">
   </details>
+
+    <details>
+    <summary>Hamburgermenu</summary>
+    <img src="readme-images/hamburgermenu.png" width="375px" alt="breakdown van de hele pagina">
+  </details>
+  
 </details>
 
 
