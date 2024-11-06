@@ -125,8 +125,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
     <img src="./readme-images/zoekbalk-2.png" width="375px" alt="breakdown van de hele pagina">
   </details>
 
-  ### Agenda voor meeting
-  samen met je groepje opstellen
+  ### Agenda voor meeting - NVT
+  samen met je groepje opstellen 
 
   | student 1      | student 2          | student 3    | student 4        |
   | ---            | ---                | ---          | ---              |
@@ -155,12 +155,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Stand van zaken
     Wat ging er goed:
   - Ik heb kleine dingen toegevoegd, zoals buttons en meer tekst. Ook heb ik met behulp van één van de studentassistentes een uitklap functie gemaakt om het aantal producten aan te passen.
+    <img src="./readme-images/uitklap.png" width="375px" alt="breakdown van de hele pagina">
   
   Wat was lastig:
   - Ik vond het lastig om verder te werken, omdat ik niet goed wist hoe ik moest beginnen (codeer blok) 
 
 
-  ### Agenda voor meeting
+  ### Agenda voor meeting - NVT
   samen met je groepje opstellen
 
   | student 1      | student 2          | student 3    | student 4        |
@@ -173,7 +174,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - p
+  - de eerste pagina had eigenlijk al veel verder moeten zijn
 
 </details>
 
@@ -187,7 +188,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na test in 9<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
-  Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
+  - ik heb 'alt' tags aan mijn images toegevoegd, zodat de screenreader deze kan lezen
+  - wel moet ik nog een dark/lightmode maken
 
 </details>
 
@@ -201,7 +203,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 3<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Wat ging er goed:
+  - Ik ben ver gekomen met mijn eerste pagina en al begonnen aan de tweede. Ik wilde eerst eigenlijk de eerste pagina helemaal af maken, voordat ik zou beginnen aan de tweede pagina, maar omdat ik een beetje vastliep ben ik begonnen met de tweede pagina. 
+  
+  Wat was lastig:
+  - Ik vond het lastig om plaatje precies naast tekst te plaatsen, maar heb ik uiteindelijk hulp bij gekregen van een student assistente!
 
 
   ### Agenda voor meeting
