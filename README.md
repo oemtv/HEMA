@@ -61,10 +61,14 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
-  - screen reader is (voor mij) heel warrig. Hij leest dingen voor waar ik nog helemaal niet om "vroeg". Ook gaat het heel snel waardoor ik het niet bij kan houden, maar mensen die hier aan gewend zijn zouden dit misschien wel bij kunnen houden.
+  - screen reader is (voor mij) heel warrig. Hij leest dingen voor waar ik nog helemaal niet om "vroeg".
+    Ook gaat het heel snel waardoor ik het niet bij kan houden, maar mensen die hier aan gewend zijn zouden dit misschien wel bij kunnen houden.
     
-  - ik heb de website nagekeken met "lighthouse" die aangeeft dat de hema website een 83/100 scoort.
+  - ik heb de website nagekeken met "lighthouse" die aangeeft dat de hema website een 83/100 scoort op toegankelijkheid.
+    Dit is geen geweldige score, maar het kan natuurlijk wel erger, dus is de Hema denk ik vrij goed op weg. 
     <img src="./readme-images/lighthouse-test.png" width="375px" alt="hema lighthouse score">
+
+  - Ik zie geen optie voor een dark/light-mode, maar dat was wel handig geweest voor mensen die bijvoorbeeld niet tegen zo'n vel witte achtergrond kunnen.
 
 </details>
 
