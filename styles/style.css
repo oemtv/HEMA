@@ -22,6 +22,8 @@ body.dark-mode {
     color: #f1f1f1;
 }
 
+/* header */
+
 header {
 	list-style: none;
 	display: flex;
@@ -229,40 +231,39 @@ ul {
   }
   
   /* verzending */
-  
+    
+.verzending {
+	margin-left: .4em;
+}
+
 .verzending div {
 	display: flex;
   }
   
 .verzending div button {
-	display: flex;
+	display: block;
 	gap: 0.5em;
 	flex-grow: 0.9;
 	background-color: rgb(247, 192, 22);
-	margin-left: 3em;
+	margin-left: 2em;
 	margin-right: 0.5em;
 	margin-bottom: 0.5em;
 	border: 0;
 	border-radius: 5px;
-}
-
-.verzending div button p {
-	margin-left: 6.5em;
-	margin-top: 0.4em;
-	margin-bottom: 0.4em;
-	font-weight: 600;
+	text-align: center;
 }
 
 .verzending button {
-	display: flex;
+	display: block;
 	gap: 1em;
 	flex-grow: 1;
 	background-color: white;
 	padding: 1em;
-	margin-left: 1em;
+	margin-left: .7em;
 	border: 1;
 	border-radius: 5px;
 	width: 95%;
+	text-align: center;
 }
 
 details {
@@ -293,8 +294,7 @@ details[open] p:nth-of-type(3) {
   
 details[open] p:nth-of-type(4) {
 	--paragraph-order: 1;
-  }
-  
+}
   
 .verzending ul li {
 	display: flex;
@@ -311,6 +311,10 @@ details[open] p:nth-of-type(4) {
   }
   
   /* upsale */
+
+.upsale h2 {
+	margin-left: .4em;
+}
  
 .upsale ul {
 	display: flex;
@@ -384,13 +388,33 @@ details[open] p:nth-of-type(4) {
 	color: #fff;
 }
 
+.footer-deel-1 h2{
+	margin-left: .4em;
+}
+
+.footer-deel-1 p{
+	margin-left: .4em;
+}
+
+.footer-deel-1 ul{
+	margin-left: .4em;
+}
+
 .blijf-op-de-hoogte button {
+	display: block;
 	color: white;
 	background-color: rgb(70, 131, 131);
 	border: 0;
 	border-radius: 5px;
-	margin-left: .4em;
+	margin-left: .7em;
 	margin-top: 1em;
+	padding: 1em;
+	text-align: center;
+	width: 95%;
+}
+
+.blijf-op-de-hoogte h2 {
+	margin-left: .4em;
 }
 
 .blijf-op-de-hoogte button p {
@@ -403,6 +427,14 @@ details[open] p:nth-of-type(4) {
 
 /* links  */
 
+.links h2 {
+	margin-left: .4em;
+}
+
+.links ul {
+	margin-left: .4em;
+}
+
 .links ul li img{
 	width: 27px;
 	display: inline;
@@ -412,11 +444,11 @@ details[open] p:nth-of-type(4) {
 
 /* navigatie */
 
-.navigatie ul li img{
-	width: 27px;
+.navigatie img{
+	width: 200px;
 	display: inline;
 	float: left;
-	margin-right: .4em;
+	margin-left: .4em;
 }
 
 .navigatie p{
@@ -425,11 +457,13 @@ details[open] p:nth-of-type(4) {
 	color: lightgray;
 	font-size: x-small;
 	margin-top: 5.5em;
+	margin-left: .4em;
 }
 
 .navigatie h2{
 	display: flex;
 	margin-top: 4em;
+	margin-left: .4em;
 }
 
 /* overig */
@@ -470,16 +504,24 @@ details[open] p:nth-of-type(4) {
 
 .disclaimer img{
 	width: 60px;
+	margin-left: .5em;
 }
 
-.einde p{
-	font-size: x-small;
+.einde ul {
+	margin-bottom: 1em;
+}
+
+.einde li{
+	font-size: xx-small;
 	margin-top: .1em;
+	margin-left: .9em;
 }
 
 .begin img{
 	width: 375px;
 }
+
+/* overlay */
 
 .overlay-text {
 	position: absolute;
@@ -654,9 +696,9 @@ margin-top: 3em;
 }
 
 .overlay img {
-width: 320px;
-padding-right: .7em;
-border-radius: 1ch 1ch 0ch 0ch;
+	width: 320px;
+	padding-right: .7em;
+	border-radius: 1ch 1ch 0ch 0ch;
 }
 
 .overlay p {
@@ -667,9 +709,9 @@ border-radius: 1ch 1ch 0ch 0ch;
 }
 
 .overlay p:nth-of-type(1){
-padding-left: .8em;
-font-size: large;
-font-weight: bolder;
+	padding-left: .8em;
+	font-size: large;
+	font-weight: bolder;
 }
 
 .overlay p:nth-of-type(2){
@@ -705,28 +747,23 @@ font-weight: bolder;
 
 .nalezen p{
 	font-size: small;
-	padding-left: 2.2em;
+	padding-left: 1.5em;
 	padding-right: 6.4em;
 	margin-top: 1em;
 }
 
-.nalezen button {
-	display: flex;
+.nalezen button { 
+	display: block;
 	justify-content: center;
 	margin-left: 2em;
 	margin-top: 1em;
 	margin-bottom: 1.5em;
+	padding: 1em;
 	border: 0;
 	border-radius: 7px;
+	width: 90%;
 	background-color: rgb(76, 222, 14);
-}
-
-.nalezen button p {
-	padding-left: 9.5em;
-	padding-right: 9.5em;
-	margin-bottom: 1em;
-	margin-top: 1em;
-	color: #fff;
+	text-align: center;
 }
 
 .nalezen img:nth-of-type(2){
