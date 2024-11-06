@@ -95,11 +95,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
     <summary>Hamburgermenu</summary>
     <img src="./readme-images/hamburgermenu.png" width="375px" alt="breakdown van de hele pagina">
   </details>
-
-    <details>
-    <summary>Hamburgermenu</summary>
-    <img src="./readme-images/hamburgermenu.png" width="375px" alt="breakdown van de hele pagina">
-  </details>
   
 </details>
 
